@@ -67,6 +67,7 @@ public class JettyServer {
 	    if(forceLoad.equals(FORCELOAD_Y)){
 		    System.out.println("********************************************");
 		    System.out.println("系统正在初始化服务容器...");
+		    
 		    //SpringBeanLoader.getApplicationContext();
 		    //System.out.println("容器初始化成功啦，您的托管Bean已经被实例化。");
 		}
